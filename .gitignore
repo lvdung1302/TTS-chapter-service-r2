@@ -1,0 +1,22 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Credentials
+service_account.json
+
+# Output audio files
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
